@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App](https://abhee74.github.io/Weather_App/)
+[Weather App](https://abhee74.github.io/Weather_App/)
 
 ## Overview
 The Weather App is a simple web application that allows users to check the current weather conditions for any city around the world. Built with HTML, CSS, and JavaScript, this app fetches real-time weather data from the OpenWeatherMap API and presents it in an intuitive and visually appealing interface.
